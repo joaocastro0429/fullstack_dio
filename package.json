@@ -1,0 +1,23 @@
+{
+  "name": "fullstack_dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocastro0429/fullstack_dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocastro0429/fullstack_dio/issues"
+  },
+  "homepage": "https://github.com/joaocastro0429/fullstack_dio#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
